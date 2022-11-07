@@ -27,5 +27,6 @@ Some of the features I will still work on includes;
   2. git push -u origin main
 
 ### ScreenShots
-<img width="175" alt="Potrait" src="https://user-images.githubusercontent.com/99341351/200228922-b5ebd02a-0b58-448e-808c-4d05d14a7a57.png">
-<img width="283" alt="Landscape" src="https://user-images.githubusercontent.com/99341351/200228929-fc60c613-7f32-4e48-8710-cdc11bc3dcfd.png">
+![landscape](https://user-images.githubusercontent.com/99341351/200229461-a020b7dd-889c-4d1c-9bf7-83cd528fdfdd.png)
+![potrait](https://user-images.githubusercontent.com/99341351/200229466-fd172f6f-1441-4c2b-b4e1-1cc80bfe627c.png)
+
