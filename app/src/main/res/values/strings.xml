@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Emmanuel\'s_resume</string>
+    <string name="my_name">Emmanuel Apeh</string>
+    <string name="field">Android Developer</string>
+    <string name="slack_username">\@Emma -Android Dev</string>
+    <string name="profile">Profile</string>
+    <string name="profile_details">Emmanuel is an undergraduate Computer Science student who is enthusiatic about building a career as an Android Developer with a background in Graphic Design, object-oriented concepts (JAVA), Html &amp; CSS3.</string>
+    <string name="service">Service</string>
+    <string name="service_details">Having a basic understanding of Design principles and working with object-oriented concepts in JAVA and Kotlin, I believe I will be able to build helpful products that are seamless, easy to use and give the user a great experience.</string>
+    <string name="contact">Contact</string>
+    <string name="twitter_handle">Emmanuel4551</string>
+    <string name="github_handle">github.com/Emmanuel-06</string>
+    <string name="gmail_address">enemonaemmanuel4\@gmail.com</string>
+
+</resources>
