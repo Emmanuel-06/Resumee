@@ -26,3 +26,6 @@ Some of the features I will still work on includes;
   1. git pull --rebase origin main
   2. git push -u origin main
 
+### ScreenShots
+<img width="175" alt="Potrait" src="https://user-images.githubusercontent.com/99341351/200228922-b5ebd02a-0b58-448e-808c-4d05d14a7a57.png">
+<img width="283" alt="Landscape" src="https://user-images.githubusercontent.com/99341351/200228929-fc60c613-7f32-4e48-8710-cdc11bc3dcfd.png">
